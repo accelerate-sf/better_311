@@ -12,4 +12,8 @@ San Francisco's 311 service is an essential point of contact for city residents,
 
 A modernized 311 interface that reduces friction, simplifies reporting, and enhances the user experience.
 
-### Current Challenges:
+## Example Hackathon Projects
+* https://devpost.com/software/311
+* https://devpost.com/software/opengov
+* https://devpost.com/software/promptsf
+* https://devpost.com/software/proofpositive-311-by-aerbits
